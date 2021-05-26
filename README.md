@@ -8,4 +8,4 @@
 
 <b>^^^^ To install this addon ^^^^</b>, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button (on this page above) to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
-<br><a href="http://www.kodi.tv"><img src="https://kodi.tv/sites/default/files/page/field_image/about--devices.jpg">
+<br><a href="http://www.kodi.tv"><img src="https://github.com/leopheard/KrystalKyleAndFriends/blob/master/resources/media/about--devices.jpg?raw=true">
